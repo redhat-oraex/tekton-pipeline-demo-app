@@ -1,5 +1,5 @@
 #iniciando pela imagem eap74-openjdk11-openshift-rhel8
-FROM registry.access.redhat.com/jboss-eap-7/eap74-openjdk11-openshift-rhel8
+FROM registry.redhat.io/jboss-eap-7/eap74-openjdk11-openshift-rhel8
 
 #definindo autoria do container
 MAINTAINER "David S. Ferreira" "dferreira.academia@oraex.com.br"
